@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **tsMukesh51/tsMukesh51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Mukesh 👋
+## Hi, I'm Mukesh 👋
 
 **Backend-focused Full Stack Developer (2+ years experience)**
 Building scalable systems with **Node.js, TypeScript, PostgreSQL, MongoDB and Redis**
