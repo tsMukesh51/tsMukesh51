@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Mukesh 👋
 
-**Backend-focused Full Stack Developer (2+ years experience)**
+**Full Stack Developer (2+ years experience)**
 Building scalable systems with **Node.js, TypeScript, PostgreSQL, MongoDB and Redis**
 
 ---
